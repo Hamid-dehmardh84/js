@@ -7,15 +7,19 @@
 
 // localStorage.setItem('name', 'ali sheihk');
 // console.log(localStorage.getItem('name'));
-const posts = [{ id: 1, name: 'post 1'}, {id: 2, name: 'post 2'}];
-localStorage.setItem('post', JSON.stringify());
+
+
+
+
+// const posts = [{ id: 1, name: 'post 1'}, {id: 2, name: 'post 2'}];
+// localStorage.setItem('post', JSON.stringify());
 
 
 
 
 
 
-document.getElementById('omid').innerHTML="hamid webprog io";
+// document.getElementById('omid').innerHTML="hamid webprog io";
 
 
 
