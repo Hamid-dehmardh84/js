@@ -98,9 +98,23 @@ const b = new String( document.getElementById('div-a-p-buck').innerHTML="hamid w
 
 // const price = 9000
 // console.log(price)
-let age = 25;
+
+// let age = 25;
+// console.log(age);
+// console.log(typeof age);
+
+// let StringAge = String(age);
+// console.log(StringAge);
+// console.log(typeof StringAge);
+
+
+
+// let isLogin = true;
+// console.log(typeof String(isLogin));
+
+
+let age = "25";
 console.log(age);
-console.log(typeof age);
-let StringAge = String(age);
-console.log(StringAge);
-console.log(typeof StringAge);
+console.log(typeof age)
+let castedage = n
+
