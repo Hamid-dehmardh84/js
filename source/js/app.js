@@ -113,8 +113,24 @@ const b = new String( document.getElementById('div-a-p-buck').innerHTML="hamid w
 // console.log(typeof String(isLogin));
 
 
-let age = "25";
-console.log(age);
-console.log(typeof age)
-let castedage = n
+// let age = "25";
+// console.log(age);
+// console.log(typeof age)
+// let castedage = n
+// Create an Array:
+// Change an element:
+// cars[0] = "Toyota";
+// Display the Array:
+// Add an element:
+const cars = ["Saab", "Volvo", "BMW"];
 
+cars.push("Audi");
+
+document.getElementById("demo").innerHTML = cars; 
+// console.log(cars)
+
+const ali = ["hello"];
+const aii = ("hamid");
+let xy = `${ali} ${aii}`
+document.getElementById("demo").innerHTML = xy; 
+console.log(xy);
