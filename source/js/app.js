@@ -121,16 +121,41 @@ const b = new String( document.getElementById('div-a-p-buck').innerHTML="hamid w
 // Change an element:
 // cars[0] = "Toyota";
 // Display the Array:
-// Add an element:
-const cars = ["Saab", "Volvo", "BMW"];
+// // Add an element:
+// const cars = ["Saab", "Volvo", "BMW"];
 
-cars.push("Audi");
+// cars.push("Audi");
 
-document.getElementById("demo").innerHTML = cars; 
+// document.getElementById("demo1").innerHTML = cars; 
 // console.log(cars)
+// const car = {type:"Fiat", model:"500", color:"white"};
 
-const ali = ["hello"];
-const aii = ("hamid");
-let xy = `${ali} ${aii}`
-document.getElementById("demo").innerHTML = xy; 
-console.log(xy);
+// const ali = ["hello"];
+// const aii = ("hamid");
+// let xy = `${ali} ${aii}`
+// document.getElementById("demo2").innerHTML = xy; 
+// // console.log(xy);
+
+
+// const arr = [1, 2, 3, 4, 5];
+// arr.push(6, 7, 8, 9, 10)
+// document.getElementById("demo3").innerHTML = arr; 
+// console.log(arr)
+
+
+// const mixed  = [1, 'hello', null, true];
+// const numbers = new Array (5, 6, 7, 8, 2)
+// xo = numbers[1] + numbers[3];
+// xo = `first number is ${numbers[0]}`;
+// xo = numbers.length;
+// // xo = numbers[numbers.length - 2]
+// numbers[4] = 9;
+// console.log(xo);
+//  document.getElementById("demo3").innerHTML = numbers; 
+
+
+
+const arr = [1, 2, 3, 4, 5];
+arr.push(6, 7, 8, 9, 10);
+console.log(arr);
+document.getElementById("demo2").innerHTML=arr;
