@@ -156,6 +156,17 @@ const b = new String( document.getElementById('div-a-p-buck').innerHTML="hamid w
 
 
 const arr = [1, 2, 3, 4, 5];
-arr.push(6, 7, 8, 9, 10);
+arr.push(10);
+// arr.pop(10);
+arr.unshift(10);
+arr.shift(10);
+arr.reverse();
+x= arr.includes(19);
+x = arr.indexOf(3);
+x = arr.slice(1,3);
 console.log(arr);
-document.getElementById("demo2").innerHTML=arr;
+console.log(x);
+
+// arr.push(6, 7, 8, 9, 10);
+// console.log(arr);
+// document.getElementById("demo2").innerHTML=arr;
