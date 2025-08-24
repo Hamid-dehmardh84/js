@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div-js{
+    background-color: rgba(0, 0, 255, 0.089);
+    width: 500px;
+       display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+/* .div-one{}
+.div-two{}
+.div-three{}
+.div-four{}
+.div-five{} */
