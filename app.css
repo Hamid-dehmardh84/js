@@ -19,3 +19,7 @@ body{
     height: 90vh;
     width: 500px;
 }
+.inpuchek{
+   max-width: 300vw;
+    /* height: 40px; */
+}

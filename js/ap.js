@@ -1,4 +1,9 @@
   
 
-const  webprogio = 'hamid';
-  console.log(webprogio , typeof(webprogio));
+// const  webprogio = 'hamid';
+//   console.log(webprogio , typeof(webprogio));
+
+
+
+
+console.log(hamid)
