@@ -6,4 +6,4 @@
 
 
 
-console.log(hamid)
+// console.log(hamid)

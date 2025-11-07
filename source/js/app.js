@@ -1,5 +1,5 @@
 
-const b = new String( document.getElementById('div-a-p-buck').innerHTML="hamid webprog io");
+// const b = new String( document.getElementById('div-a-p-buck').innerHTML="hamid webprog io");
 //  console.log(b)
 //  console.log(b[0])
 

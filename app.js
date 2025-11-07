@@ -1,16 +1,12 @@
+//   let i = 0;
+// while ( i <= 10 ) {
+//     console.log(`number ${i}`);
+//       let j = 0;
+// while ( i <= j) {
+//     console.log(`number ${i} - ${j}`);
+//  j++;
 
+// }
+//  i++;
 
-function myFunction() {
- let on = document.getElementById('demo');
-  on.style.fontSize = "25px";
-  on.style.color = "red";
-}
-
-
-  let x = 0;
-   o = 20;
-  if  (x  > o ){
-   console.log(o);
-  }else{
-   alert(myFunction()) , console.log("noting");
-  };
+// }
